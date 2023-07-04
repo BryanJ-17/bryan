@@ -12,7 +12,8 @@ This is contrasted with niche web browsers like Brave, Coowon, Epic and OperaGX 
     
     <H1> Popular web browsers include applications like Google Chrome, Safari, Microsoft Edge and Mozzilla Firefox.
 
-        <div> <img src="chrome logo.jpeg" </div>  <div>  <img src="safari logo.jpeg" </div>
+        <div> <img src="chrome logo.jpeg"![image](https://github.com/BryanJ-17/bryan/assets/138407532/f4193c35-ef8b-4e6e-9884-f08a7a2c72b6)
+ </div>  <div>  <img src="safari logo.jpeg" </div>
         
         <div> <img src="microsoft edge logo.jpeg" </div> <div> <img src="mozilla firefox logo.jpeg" </div>
     
