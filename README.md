@@ -21,7 +21,8 @@ This is contrasted with niche web browsers like Brave, Coowon, Epic and OperaGX 
     
     <H2> Niche web browsers include applications like OperaGX, Coowon, Brave and Epic. 
         
-        <div> <img src="opera gx logo.png" </div> <div> <img src="coowon logo.jpeg" </div>
+        <div> <img src="![image](https://github.com/BryanJ-17/bryan/assets/138407532/4ad33fa2-9c30-4d19-9caa-1e5171a84dd3)
+" </div> <div> <img src="coowon logo.jpeg" </div>
         
         <div> <img src="brave logo.png" </div>    <div> <img src="epic logo.jpeg" </div> 
     
